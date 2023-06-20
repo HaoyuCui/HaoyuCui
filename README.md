@@ -4,9 +4,11 @@
 
 ## Hi, I'm HaoyuCui!
 
+<p>
 <a href="https://blog.csdn.net/calvincui"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-
-<a href="https://www.linkedin.com/in/%E5%B4%94%E6%98%8A%E5%AE%87/"><img src="https://img.shields.io/static/v1?label=CV&message=LinkedIn&color=blue"/></a>
+<a href="https://www.linkedin.com/in/%E5%B4%94%E6%98%8A%E5%AE%87/"><img src="https://img.shields.io/static/v1?label=CV&message=LinkedIn&color=blue"/>
+</a>
+</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haoyucui&theme=dark&layout=compact)
 
