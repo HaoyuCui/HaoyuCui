@@ -18,3 +18,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=haoyucui&theme=github)
 
+[![HaoyuCui's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haoyucui&theme=github-compact)]
