@@ -11,7 +11,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyucui&layout=compact"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=haoyucui"/> <br> <br>
 </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyucui"/> </div> <br>
+<div align="center"> <img height="137px" img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyucui"/> </div> <br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=haoyucui&theme=github)
 
