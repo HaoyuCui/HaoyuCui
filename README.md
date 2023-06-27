@@ -13,6 +13,3 @@
 </div>
 <div align="center"> <img height="157px" img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyucui"/> </div> <br>
 
-![](https://activity-graph.herokuapp.com/graph?username=haoyucui&theme=github)
-
-![HaoyuCui's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haoyucui&theme=xcode)
