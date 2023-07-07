@@ -8,8 +8,8 @@
 <a href="https://blog.csdn.net/calvintri"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p><br>
 <div align="center" >
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyucui&layout=compact"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=haoyucui"/> <br> <br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyucui&layout=compact"/>
 </div>
-<div align="center"> <img height="157px" img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyucui"/> </div> <br>
+
 
