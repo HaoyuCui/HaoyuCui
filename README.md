@@ -9,7 +9,6 @@
 </p><br>
 <div align="center" >
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=haoyucui"/> <br> <br>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyucui&layout=compact"/>
 </div>
 
 
