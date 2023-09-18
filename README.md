@@ -10,4 +10,4 @@
 -   I’m looking to collaborate on Pattern Recognition & Machine Learning
 -   Ask me about ANYTHING creative
 -   How to reach me: haoyu_cui@outlook.com
-- ⚡ Fun fact: [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+-   Fun fact: [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
