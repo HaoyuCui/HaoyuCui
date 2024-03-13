@@ -11,5 +11,4 @@
 -   I’m currently working on Artificial Intelligence in Medical Image
 -   I’m currently learning Python & Java
 -   I’m looking to collaborate on Pattern Recognition & Machine Learning
--   Ask me about ANYTHING creative
 -   How to reach me: haoyu_cui@outlook.com
