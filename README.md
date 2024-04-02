@@ -6,9 +6,13 @@
   <img align="right", src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/>
 </a>
 
+<a href="https://aim.nuist.edu.cn/"> 
+  <img align="right", src="https://img.shields.io/static/v1?label=Org&message=AIM&color=blue"/>
+</a>
+
 ## Hi, I'm HaoyuCui!
 
--   I’m currently working on Artificial Intelligence in Medical Image
+-   A member of the **Institute for Artificial Intelligence in Medicine**
 -   I’m currently learning Python & Java
--   I’m looking to collaborate on Pattern Recognition & Machine Learning
+-   I’m looking to collaborate on Pattern Recognition & Machine Learning & Web Development
 -   How to reach me: haoyu_cui@outlook.com
