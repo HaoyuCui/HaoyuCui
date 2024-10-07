@@ -7,12 +7,12 @@
 </a>
 
 <a href="https://aim.nuist.edu.cn/"> 
-  <img align="right", src="https://img.shields.io/static/v1?label=Org&message=AIM&color=blue"/>
+  <img align="right", src="https://img.shields.io/static/v1?label=Org&message=iMIC&color=green"/>
 </a>
 
 ## Hi, I'm HaoyuCui!
 
--   A member of the **Institute for Artificial Intelligence in Medicine**
+-   A member of the **iMIC** (Jiangsu Provincial Key Laboratory)
 -   I’m currently learning Python & Java
 -   I’m looking to collaborate on Pattern Recognition & Machine Learning & Web Development
 -   How to reach me: haoyu_cui@outlook.com
