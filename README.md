@@ -15,4 +15,4 @@
 -   A member of the **iMIC** (Jiangsu Provincial Key Laboratory)
 -   I’m currently learning Python & Java
 -   I’m looking to collaborate on Pattern Recognition & Machine Learning & Web Development
--   How to reach me: haoyu_cui<at>outlook.com
+-   How to reach me: haoyu_cui\<at>outlook.com
