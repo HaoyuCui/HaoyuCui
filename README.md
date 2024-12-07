@@ -6,7 +6,7 @@
   <img align="right", src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/>
 </a>
 
-<a href="https://aim.nuist.edu.cn/"> 
+<a href="(https://imic.nuist.edu.cn"> 
   <img align="right", src="https://img.shields.io/static/v1?label=Org&message=iMIC&color=green"/>
 </a>
 
